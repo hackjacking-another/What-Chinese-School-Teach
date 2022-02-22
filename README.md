@@ -8,3 +8,6 @@ Thanks to my teacher for giving me careful teaching.
 Gave me a happy childhood.(All Chinese are like that, right?OK i'm kidding.)
 
 If my teacher can see this article, I hope github can help me pass my gratitude.
+
+### attention
+my main blog is at `hackjacking`
