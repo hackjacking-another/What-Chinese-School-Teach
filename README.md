@@ -13,7 +13,7 @@ If my teacher can see this article, I hope github can help me pass my gratitude.
 my main blog is at `hackjacking`(my user name in github), and [csdn](https://hackjacking.blog.csdn.net/)
 
 
-接下来的内容，不是一个外国人该看的
+接下来的内容，不是一个外国人该看的(This is open to Chinese)
 ```
 注意事项：
 	1. 此系列文档欢迎转载给您身边的同学，让这个世界卷起来
