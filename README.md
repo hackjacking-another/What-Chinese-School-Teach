@@ -10,7 +10,8 @@ Gave me a happy childhood.(All Chinese are like that, right?OK i'm kidding.)
 If my teacher can see this article, I hope github can help me pass my gratitude.
 
 ### attention
-my main blog is at `hackjacking`
+my main blog is at `hackjacking`(my user name in github), and [csdn](https://hackjacking.blog.csdn.net/)
+
 
 接下来的内容，不是一个外国人该看的
 ```
