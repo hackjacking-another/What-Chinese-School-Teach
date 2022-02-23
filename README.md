@@ -9,9 +9,10 @@ Gave me a happy childhood.(All Chinese are like that, right?OK i'm kidding.)
 
 If my teacher can see this article, I hope github can help me pass my gratitude.
 
+I won't use English titles like I used to, after all, my original intention is to make those Chinese children introvert
+
 ### attention
 my main blog is at `hackjacking`(my user name in github), and [csdn](https://hackjacking.blog.csdn.net/)
-
 
 接下来的内容，不是一个外国人该看的(This is open to Chinese)
 ```
