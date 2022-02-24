@@ -1,5 +1,5 @@
 # What-Chinese-School-Teach
-In 2022, I will be 14 years old, and I want to commemorate the lesson， so I write it.
+In 2022, I will be 14 years old, and I want to commemorate the lesson, so I write it.
 
 My English is very poor, so I can only write it in Chinese.
 
